@@ -9,5 +9,6 @@ public class practiceClass {
 		
 		System.out.println("Hello");
 		System.out.println("break");
+		System.out.println("new statement");
 	}
 }
