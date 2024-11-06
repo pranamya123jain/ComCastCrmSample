@@ -8,5 +8,6 @@ public class practiceClass {
 		System.out.println("Hiii");
 		
 		System.out.println("Hello");
+		System.out.println("break");
 	}
 }
