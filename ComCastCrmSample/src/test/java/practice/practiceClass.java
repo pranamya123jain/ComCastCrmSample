@@ -13,5 +13,6 @@ public class practiceClass {
 		System.out.println("new comment");
 		System.out.println("------------");
 		System.out.println("new comment one more");
+		System.out.println("------------");
 	}
 }
