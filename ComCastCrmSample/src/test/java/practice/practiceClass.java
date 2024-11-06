@@ -10,5 +10,6 @@ public class practiceClass {
 		System.out.println("break");
 		System.out.println("new statement");
 		System.out.println("new more statement");
+		System.out.println("🤣😂");
 	}
 }
