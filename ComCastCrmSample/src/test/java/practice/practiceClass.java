@@ -6,5 +6,7 @@ public class practiceClass {
 	@Test
 	public void display() {
 		System.out.println("Hiii");
+		
+		System.out.println("Hello");
 	}
 }
