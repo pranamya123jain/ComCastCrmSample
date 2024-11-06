@@ -22,6 +22,7 @@ public class practiceClass {
 
 		System.out.println(1+2);
 		System.out.println(1+2+5);
+		System.out.println("++++++");
 
 	}
 }
