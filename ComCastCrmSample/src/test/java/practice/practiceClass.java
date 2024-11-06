@@ -22,11 +22,11 @@ public class practiceClass {
 
 		System.out.println(1+2);
 		System.out.println(1+2+5);
-<<<<<<< HEAD
+
 		System.out.println("====");
-=======
+
 		System.out.println("++++++");
->>>>>>> branch 'master' of https://github.com/pranamya123jain/ComCastCrmSample.git
+
 
 	}
 }
