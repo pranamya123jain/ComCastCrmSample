@@ -11,5 +11,6 @@ public class practiceClass {
 		System.out.println("new statement");
 		System.out.println("new more statement");
 		System.out.println("🤣😂");
+		System.out.println("BYEEEE");
 	}
 }
