@@ -6,7 +6,6 @@ public class practiceClass {
 	@Test
 	public void display() {
 		System.out.println("Hiii");
-		
 		System.out.println("Hello");
 		System.out.println("break");
 		System.out.println("new statement");
