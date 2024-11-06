@@ -20,5 +20,7 @@ public class practiceClass {
 		System.out.println("🤣😂");
 		System.out.println("BYEEEE");
 
+		System.out.println(1+2);
+
 	}
 }
